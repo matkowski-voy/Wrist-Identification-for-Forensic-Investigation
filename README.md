@@ -11,5 +11,8 @@ Examples of original wrist images (in folder SEToriginalWristImages).
 ![alt text](https://github.com/matkowski-voy/Wrist-Identification-for-Forensic-Investigation/blob/master/segmentedImages.png)
 Examples of segmented and flipped wrist images (in folder SETsegmentedWristImages). 
 
+![alt text](https://github.com/matkowski-voy/Wrist-Identification-for-Forensic-Investigation/blob/master/segmentedROIImages.png)
+Examples of segmented, flipped and aligned ROI wrist images (in folder SETsegmentedAlignedWristImages). 
+
 If you have any questions about the paper please email me on matk0001@e.ntu.edu.sg or maskotky@gmail.com
 "Data Release Agreement.pdf" coming soon
