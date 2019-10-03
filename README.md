@@ -8,7 +8,8 @@ To acquire the NTU-Wrist-Image-Database-v1 dataset (which was used in the paper)
 ![alt text](https://github.com/matkowski-voy/Wrist-Identification-for-Forensic-Investigation/blob/master/originalImages.png)\
 Examples of original wrist images (in folder SEToriginalWristImages). 
 
-
+![alt text](https://github.com/matkowski-voy/Wrist-Identification-for-Forensic-Investigation/blob/master/segmentedImages.png)
+Examples of segmented and flipped wrist images (in folder SETsegmentedWristImages). 
 
 If you have any questions about the paper please email me on matk0001@e.ntu.edu.sg or maskotky@gmail.com
 "Data Release Agreement.pdf" coming soon
