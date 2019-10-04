@@ -6,7 +6,7 @@ Paper can be found now on ScienceDirect [here](https://www.sciencedirect.com/sci
 To acquire the NTU-Wrist-Image-Database-v1 dataset (which was used in the paper), download and fill in the "Data Release Agreement.pdf" file. Print the agreement and sign on page 2. Scan the signed copy and send back to matk0001@e.ntu.edu.sg, xpxu@ntu.edu.sg or adamskong@ntu.edu.sg with title "Application for NTU-Wrist-Image-Database-v1 dataset". A download link to the corresponding dataset will be send to you once after we receive the signed agreement file.
 
 ![alt text](https://github.com/matkowski-voy/Wrist-Identification-for-Forensic-Investigation/blob/master/originalImages.png)\
-Examples of original wrist images (in folder SEToriginalWristImages). 
+Examples of original wrist images (note: in folder SEToriginalWristImages all images are already flipped). 
 
 ![alt text](https://github.com/matkowski-voy/Wrist-Identification-for-Forensic-Investigation/blob/master/segmentedImages.png)
 Examples of segmented and flipped wrist images (in folder SETsegmentedWristImages). 
