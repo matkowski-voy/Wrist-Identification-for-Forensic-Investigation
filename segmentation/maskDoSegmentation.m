@@ -35,6 +35,8 @@ end
 
 if(select == 1)
 pathImg = fullfile('../databases',dbName,'SEToriginalWristImages',setName{1})
+mkdir(fullfile(pwd,'results',dbName,'segmentation',setName{1},'img'))
+mkdir(fullfile(pwd,'results',dbName,'segmentation',setName{1},'mask'))
 pathSave = fullfile(pwd,'results',dbName,'segmentation',setName{1},'img')
 pathSave2 = fullfile(pwd,'results',dbName,'segmentation',setName{1},'mask')
 tic
@@ -48,6 +50,8 @@ toc
 end
 if(select == 2)
 pathImg = fullfile('../databases',dbName,'SEToriginalWristImages',setName{2})
+mkdir(fullfile(pwd,'results',dbName,'segmentation',setName{2},'img'))
+mkdir(fullfile(pwd,'results',dbName,'segmentation',setName{2},'mask'))
 pathSave = fullfile(pwd,'results',dbName,'segmentation',setName{2},'img') 
 pathSave2 = fullfile(pwd,'results',dbName,'segmentation',setName{2},'mask')
 tic
