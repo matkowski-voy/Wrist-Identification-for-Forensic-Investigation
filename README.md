@@ -21,7 +21,13 @@ Examples of segmented and flipped wrist images (in folder SETsegmentedWristImage
 Examples of segmented, flipped and aligned ROI wrist images (in folder SETsegmentedAlignedWristImages). 
 
 ## Code
-coming soon
+
+### Segmentation
+- download pre-trained ensemble of decision trees superpixel skin classifiers [here](https://www.dropbox.com/s/zjkgms09zcf9eik/classifiersTrees.zip?dl=0)
+- unpack downloaded classfiers and put them into classifiersTrees folder 
+- in folder segmentation run maskDoSegmentation.m
+- the results are saved in results folder if (write2File = true)\
+NOTE: you can also visualize some steps if (plotFig = true)
 
 ## Questions
 If you have any questions about the paper please email me on matk0001@e.ntu.edu.sg or maskotky@gmail.com
