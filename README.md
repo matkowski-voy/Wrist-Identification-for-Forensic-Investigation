@@ -33,4 +33,3 @@ NOTE: you can also visualize some steps if (plotFig = true)
 
 ## Questions
 If you have any questions about the paper please email me on matk0001@e.ntu.edu.sg or maskotky@gmail.com
-"Data Release Agreement.pdf" coming soon
