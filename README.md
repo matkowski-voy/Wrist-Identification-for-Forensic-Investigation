@@ -41,6 +41,6 @@ To run the script:
 - the results are saved in results folder if (saveResults = true)\
 NOTE: you can also visualize some steps (in the paper see Fig. 8) if (plotFlag = true)\
 NOTE2: to change between proc2 and proc2/3 use procSelector=true or procSelector=false;\
-NOTE3: the results are saved to the same folder for the corresponding SET. Thus, you should change folder name if you (change procSelector) would like to generate save ROIs using another procedure. 
+NOTE3: the results are saved to the same folder for the corresponding SET. Thus, you should rename the folder if you (change procSelector) would like to generate save ROIs using another procedure. 
 ## Questions
 If you have any questions about the paper please email me on matk0001@e.ntu.edu.sg or maskotky@gmail.com
