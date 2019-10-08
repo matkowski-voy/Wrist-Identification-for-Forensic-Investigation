@@ -23,6 +23,8 @@ Examples of segmented, flipped and aligned ROI wrist images (in folder SETsegmen
 ## Code
 
 ### Segmentation
+segmentation folder should contain 3 folders: functions, results, classifiersTrees and on script maskDoSegmentation.m\
+To run the script:
 - download pre-trained ensemble of decision trees superpixel skin classifiers [here](https://www.dropbox.com/s/zjkgms09zcf9eik/classifiersTrees.zip?dl=0)
 - unpack downloaded classfiers and put them into classifiersTrees folder 
 - in folder segmentation run maskDoSegmentation.m
