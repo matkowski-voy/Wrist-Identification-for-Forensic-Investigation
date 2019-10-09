@@ -4,7 +4,7 @@
 Wojciech Michal Matkowski, Frodo Kin Sun Chan and Adams Wai Kin Kong. A Study on Wrist Identification for Forensic Investigation. Image and Vision Computing, vol. 88, August 2019, pp 96-112. https://doi.org/10.1016/j.imavis.2019.05.005
 
 Paper can be found now on ScienceDirect [here](https://www.sciencedirect.com/science/article/pii/S0262885619300733)\
-Preprint can be found on arXiv soon
+Preprint can be found on arXiv [here](https://arxiv.org/pdf/1910.03213.pdf)
 
 ## Dataset
 ### How to acquire the dataset?
