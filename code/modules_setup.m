@@ -1,0 +1,11 @@
+addpath('feature_extraction');
+addpath('feature_extraction/functions');
+addpath('feature_extraction/functions/LBP_functions');
+addpath('matching');
+addpath('matching/functions');
+addpath('roi_extraction');
+addpath('roi_extraction/functions');
+addpath('roi_extraction/keyPointsTemplate');
+addpath('roi_extraction/CPD2');
+addpath('segmentation');
+addpath('segmentation/functions');
