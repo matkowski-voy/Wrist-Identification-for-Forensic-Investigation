@@ -39,7 +39,7 @@ NOTE: you can also visualize some steps (in the paper see Fig. 8) if (plotFlag =
 NOTE2: to change between proc2 and proc2/3 use procSelector=true or procSelector=false;\
 
 ### Feature Extraction
-
+Featrue extraction module uses DSIFT from VLFeat library. Download and Guide to instal [here](https://www.vlfeat.org/install-matlab.html) 
 ### Identification
 
 ### Meta-recognition
