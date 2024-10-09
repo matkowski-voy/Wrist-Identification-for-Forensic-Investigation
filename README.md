@@ -8,7 +8,7 @@ Preprint can be found on arXiv [here](https://arxiv.org/pdf/1910.03213.pdf)
 
 ## Dataset
 ### How to acquire the dataset?
-To acquire the NTU-Wrist-Image-Database-v1 dataset (which was used in the paper), download and fill in the "Data Release Agreement.pdf" file. Print the agreement and sign on page 2. Scan the signed copy and send back to matk0001@e.ntu.edu.sg, xpxu@ntu.edu.sg or adamskong@ntu.edu.sg with title "Application for NTU-Wrist-Image-Database-v1 dataset". A download link to the corresponding dataset will be send to you once after we receive the signed agreement file.
+To acquire the NTU-Wrist-Image-Database-v1 dataset (which was used in the paper), download and fill in the "Data Release Agreement.pdf" file. Print the agreement and sign on page 2. Scan the signed copy and send back to maskotky@gmail.com, xpxu@ntu.edu.sg or adamskong@ntu.edu.sg with title "Application for NTU-Wrist-Image-Database-v1 dataset". A download link to the corresponding dataset will be send to you once after we receive the signed agreement file.
 
 ### Image examples
 ![alt text](https://github.com/matkowski-voy/Wrist-Identification-for-Forensic-Investigation/blob/master/originalImages.png)\
@@ -45,4 +45,4 @@ Featrue extraction module uses DSIFT from VLFeat library. Download and Guide to 
 ### Meta-recognition
 
 ## Questions
-If you have any questions about the paper please email me on matk0001@e.ntu.edu.sg or maskotky@gmail.com
+If you have any questions about the paper please email me on maskotky@gmail.com
